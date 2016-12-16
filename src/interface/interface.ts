@@ -1,4 +1,4 @@
-/*function getPerson(person: {name: string, age: number}): string {
+function getPerson(person: {name: string, age: number}): string {
   return "Ten " + person.name + " tuoi " + person.age;
 }
 console.log(getPerson({

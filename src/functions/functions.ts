@@ -1,4 +1,4 @@
-function stringFunc(): string {
+/*function stringFunc(): string {
   return "Chuoi bat ky";
 }
 
